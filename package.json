@@ -8,7 +8,7 @@
     "dev": "nodemon ./node_modules/.bin/serve ./app"
   },
   "dependencies": {
-    "nodemon": "^1.19.4",
+    "nodemon": "^2.0.3",
     "serve": "^11.2.0"
   }
 }
